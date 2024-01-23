@@ -9,10 +9,10 @@
 }
 
 .app__footerOverlay-black {
-    height: 25%;
+    height: 40%;
     background: var(--color-black);
 }
 
 .app__footerOverlay-img {
-    height: 75%;
+    height: 60%;
 }
